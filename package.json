@@ -1,0 +1,25 @@
+{
+  "name": "pdf-extract-text",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cityssm/pdf-form-extract": "^0.1.0",
+    "@pspdfkit/nodejs": "^0.0.5",
+    "pdf-extraction": "^1.0.2",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-text": "^0.0.7",
+    "pdf.js-extract": "^0.2.1",
+    "pdf2json": "^3.1.4",
+    "pdfreader": "^3.0.5",
+    "pspdfkit": "^2024.6.0",
+    "text-from-pdf": "^1.1.2"
+  }
+}
