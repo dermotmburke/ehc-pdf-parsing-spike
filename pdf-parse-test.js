@@ -110,4 +110,10 @@ for (let i = attestations[0].name.length - 2; i > 0; i = i - 2) {
     attestations = attestations.filter(attestation => !attestation.isChild)
 }
 
-console.log(JSON.stringify(attestations))
+const result = JSON.stringify(attestations, null, 2)
+
+try {
+    fs.writeFileSync(filename + ".json", result);
+} catch (err) {
+    console.error(err);
+}

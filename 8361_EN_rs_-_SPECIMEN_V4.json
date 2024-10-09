@@ -1,0 +1,5253 @@
+[
+  {
+    "x": 78.24,
+    "y": 130.97969999999998,
+    "str": "II.1.",
+    "dir": "ltr",
+    "width": 14.249088000000016,
+    "height": 7.98,
+    "fontName": "g_d0_f2",
+    "page": 3,
+    "absoluteY": 1815,
+    "endY": 458,
+    "endPage": 3,
+    "absoluteEndY": 2142,
+    "name": "II.1.",
+    "lines": [
+      {
+        "str": "(1)",
+        "num": 128,
+        "size": 4.98,
+        "x": 71,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "II.1.",
+        "num": 131,
+        "size": 7.98,
+        "x": 78,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "Public health attestation",
+        "num": 131,
+        "size": 7.98,
+        "x": 99,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "[Deleted when the Union is not the final destination of the live fish, live crustaceans or products of animal origin",
+        "num": 131,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "from those animals]",
+        "num": 140,
+        "size": 7.98,
+        "x": 99,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "I, the undersigned, declare that I am aware of the relevant requirements of Regulation (EC) No 178/2002 of the European Parliament and of the",
+        "num": 155,
+        "size": 7.98,
+        "x": 73,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "Council, Regulation (EC)",
+        "num": 165,
+        "size": 7.98,
+        "x": 73,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "No 852/2004 of the European Parliament and of the Council, Regulation (EC) No 853/2004 of the European Parliament",
+        "num": 165,
+        "size": 7.98,
+        "x": 156,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "and of the Council and Regulation (EU) 2017/625 of the European Parliament and of the Council and hereby certify that the fishery products",
+        "num": 174,
+        "size": 7.98,
+        "x": 73,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "described in Part I were produced in accordance with these requirements, in particular that they:",
+        "num": 183,
+        "size": 7.98,
+        "x": 73,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "a)",
+        "num": 198,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "have been obtained in the region(s) or country(ies) which, at the date of issue of this animal health/official certificate is/are",
+        "num": 198,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "authorised for the entry into the Union of fishery products and in Annex IX to Commission Implementing Regulation (EU)",
+        "num": 207,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "2021/405;",
+        "num": 217,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "b)",
+        "num": 228,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "come from (an) establishment(s) applying general hygiene requirements and implementing a programme based on the hazard",
+        "num": 228,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "analysis and critical control points (HACCP) principles in accordance with Article 5 of Regulation (EC) No 852/2004, regularly",
+        "num": 237,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "audited by the competent authorities, and is listed as a Union approved establishment;",
+        "num": 246,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "c)",
+        "num": 257,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "have been caught and handled on board vessels, landed, handled and where appropriate prepared, processed, frozen and thawed",
+        "num": 257,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "hygienically in compliance with the requirements laid down in Section VIII, Chapters I to IV, of Annex III to Regulation (EC)",
+        "num": 267,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "No 853/2004;",
+        "num": 276,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "d)",
+        "num": 287,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "have not been stored in holds, tanks or containers used for other purposes than the production and/or storage of fishery products;",
+        "num": 287,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "e)",
+        "num": 298,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "satisfy the health standards laid down in Section VIII, Chapter V, of Annex III to Regulation (EC) No 853/2004 and the criteria",
+        "num": 298,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "laid down in Commission Regulation (EC) No 2073/2005;",
+        "num": 307,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "f)",
+        "num": 319,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "have been packaged, stored and transported in compliance with Section VIII, Chapters VI to VIII, of Annex III to Regulation",
+        "num": 319,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "(EC) No 853/2004;",
+        "num": 328,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "g)",
+        "num": 339,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "have been marked in accordance with Section I of Annex II to Regulation (EC) No 853/2004;",
+        "num": 339,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "h)",
+        "num": 350,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "fulfil the guarantees covering live animals and products thereof, if of aquaculture origin, provided by the control plan submitted",
+        "num": 350,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "in accordance with Article 6(2) of Commission Delegated Regulation (EU) 2022/2292 and the concerned animals and products",
+        "num": 359,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "are listed in Annex -I to Implementing Regulation (EU) 2021/405 for the concerned third country or territory;",
+        "num": 369,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "i)",
+        "num": 380,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "for the live animals from wild catch and products thereof monitoring arrangements are in place to control compliance with the",
+        "num": 380,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "Union legislation on contaminants, in accordance with Commission Regulation (EU) 2023/915 on maximum levels for certain",
+        "num": 389,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "contaminants in food and on pesticide residues and in accordance with Regulation (EC) No 396/2005 of the European Parliament",
+        "num": 398,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin;",
+        "num": 407,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "j)",
+        "num": 419,
+        "size": 7.02,
+        "x": 115,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "have satisfactorily undergone the official controls laid down in Articles 67 to 71 of Commission Implementing Regulation (EU)",
+        "num": 419,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "2019/627.",
+        "num": 428,
+        "size": 7.98,
+        "x": 133,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "(4)(13)",
+        "num": 455,
+        "size": 4.98,
+        "x": 73,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "V4:",
+        "num": 165,
+        "size": 66.1768112610631,
+        "x": 10,
+        "font": "g_d0_f10"
+      },
+      {
+        "str": "8361EHC",
+        "num": 248,
+        "size": 66.1768112610631,
+        "x": 93,
+        "font": "g_d0_f10"
+      },
+      {
+        "str": "8361EHC",
+        "num": 248,
+        "size": 66.1768112610631,
+        "x": 93,
+        "font": "g_d0_f10"
+      }
+    ],
+    "children": [
+      {
+        "x": 91.02138,
+        "y": 458.1597,
+        "str": "II.1.a. Attestation",
+        "dir": "ltr",
+        "width": 61.919214000000025,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 3,
+        "absoluteY": 2142,
+        "endY": 560,
+        "endPage": 3,
+        "absoluteEndY": 2244,
+        "name": "II.1.a.",
+        "lines": [
+          {
+            "str": "Part II: Certification",
+            "num": 482,
+            "size": 10.02,
+            "x": 57,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "(4)(13)",
+            "num": 455,
+            "size": 4.98,
+            "x": 73,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[",
+            "num": 458,
+            "size": 7.98,
+            "x": 88,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "II.1.a. Attestation",
+            "num": 458,
+            "size": 7.98,
+            "x": 91,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "as regards Commission Delegated Regulation (EU) 2023/905",
+            "num": 458,
+            "size": 7.98,
+            "x": 155,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "[Delete when the Union is not the final destination of",
+            "num": 458,
+            "size": 7.98,
+            "x": 362,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "the fishery products]",
+            "num": 469,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "I, the undersigned, declare that I am aware of the relevant requirements of Regulation (EU) 2019/6 of the European Parliament and",
+            "num": 481,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "of the Council",
+            "num": 490,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "and Commission Delegated Regulation (EU) 2023/905 and hereby certify that the fishery products of aquaculture",
+            "num": 490,
+            "size": 7.98,
+            "x": 164,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "origin described in Part I were produced in accordance with these requirements, and in particular that the aquacultured animals from",
+            "num": 499,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "which the products have been derived have not been administered antimicrobial medicinal products for growth promotion or yield",
+            "num": 508,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "increase or antimicrobial medicinal products containing an antimicrobial that is included in the list of antimicrobials reserved for the",
+            "num": 517,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "treatment of certain infections in humans laid down in Commission Implementing Regulation (EU) 2022/1255 as set out in Article 3",
+            "num": 527,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "of Delegated Regulation (EU) 2023/905 and originate from a third country or region thereof listed in accordance with Article 5(2) of",
+            "num": 536,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "Delegated Regulation (EU) 2023/905.]",
+            "num": 545,
+            "size": 7.98,
+            "x": 115,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(2)",
+            "num": 557,
+            "size": 4.98,
+            "x": 73,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(3)",
+            "num": 557,
+            "size": 4.98,
+            "x": 344,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "SPECIMEN",
+            "num": 464,
+            "size": 66.1768112610631,
+            "x": 309,
+            "font": "g_d0_f10"
+          },
+          {
+            "str": "SPECIMEN",
+            "num": 464,
+            "size": 66.1768112610631,
+            "x": 309,
+            "font": "g_d0_f10"
+          }
+        ],
+        "isChild": true
+      }
+    ]
+  },
+  {
+    "x": 80.04,
+    "y": 560.1596999999999,
+    "str": "[II.2.",
+    "dir": "ltr",
+    "width": 16.89365999999998,
+    "height": 7.98,
+    "fontName": "g_d0_f2",
+    "page": 3,
+    "absoluteY": 2244,
+    "endY": 594,
+    "endPage": 3,
+    "absoluteEndY": 2278,
+    "name": "II.2.",
+    "lines": [
+      {
+        "str": "(2)",
+        "num": 557,
+        "size": 4.98,
+        "x": 73,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "[II.2.",
+        "num": 560,
+        "size": 7.98,
+        "x": 80,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "Animal health attestation for live fish and live crustaceans of listed",
+        "num": 560,
+        "size": 7.98,
+        "x": 114,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "(3)",
+        "num": 557,
+        "size": 4.98,
+        "x": 344,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "species intended for human consumption and products",
+        "num": 560,
+        "size": 7.98,
+        "x": 352,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "of animal origin from those aquatic animals intended for further processing in the Union before human consumption,",
+        "num": 569,
+        "size": 7.98,
+        "x": 114,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "excluding live fish and live crustaceans and their products landed from fishing vessels",
+        "num": 579,
+        "size": 7.98,
+        "x": 114,
+        "font": "g_d0_f2"
+      },
+      {
+        "str": "(4)",
+        "num": 591,
+        "size": 4.98,
+        "x": 385,
+        "font": "g_d0_f5"
+      },
+      {
+        "str": "(4)",
+        "num": 591,
+        "size": 4.98,
+        "x": 385,
+        "font": "g_d0_f5"
+      }
+    ],
+    "children": [
+      {
+        "x": 113.6961,
+        "y": 593.7555,
+        "str": "II.2.1.",
+        "dir": "ltr",
+        "width": 19.308407999999986,
+        "height": 7.98,
+        "fontName": "g_d0_f5",
+        "page": 3,
+        "absoluteY": 2278,
+        "endY": 626,
+        "endPage": 3,
+        "absoluteEndY": 2310,
+        "name": "II.2.1.",
+        "lines": [
+          {
+            "str": "II.2.1.",
+            "num": 594,
+            "size": 7.98,
+            "x": 114,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "According to official information, the [aquatic animals described in Part I]",
+            "num": 594,
+            "size": 7.98,
+            "x": 145,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 591,
+            "size": 4.98,
+            "x": 385,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[products of animal origin from aquatic",
+            "num": 594,
+            "size": 7.98,
+            "x": 392,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "animals other than live aquatic animals described in Part I, have been obtained from animals which]",
+            "num": 604,
+            "size": 7.98,
+            "x": 145,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 601,
+            "size": 4.98,
+            "x": 466,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "meet the following",
+            "num": 604,
+            "size": 7.98,
+            "x": 474,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "animal health requirements:",
+            "num": 614,
+            "size": 7.98,
+            "x": 145,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 622,
+            "size": 4.98,
+            "x": 308,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[a habitat]",
+            "num": 625,
+            "size": 7.98,
+            "x": 315,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 622,
+            "size": 4.98,
+            "x": 349,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "which is not subject to national restriction measures for",
+            "num": 625,
+            "size": 7.98,
+            "x": 357,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "which is not subject to national restriction measures for",
+            "num": 625,
+            "size": 7.98,
+            "x": 357,
+            "font": "g_d0_f5"
+          }
+        ],
+        "children": [
+          {
+            "x": 144.9035,
+            "y": 625.501,
+            "str": "II.2.1.1.",
+            "dir": "ltr",
+            "width": 25.24393199999995,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 3,
+            "absoluteY": 2310,
+            "endY": 667,
+            "endPage": 3,
+            "absoluteEndY": 2351,
+            "name": "II.2.1.1.",
+            "lines": [
+              {
+                "str": "II.2.1.1.",
+                "num": 626,
+                "size": 7.98,
+                "x": 145,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They originate from [an establishment]",
+                "num": 626,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 622,
+                "size": 4.98,
+                "x": 308,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[a habitat]",
+                "num": 625,
+                "size": 7.98,
+                "x": 315,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 622,
+                "size": 4.98,
+                "x": 349,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which is not subject to national restriction measures for",
+                "num": 625,
+                "size": 7.98,
+                "x": 357,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animal health reasons or because of the occurrence of abnormal mortalities with an undetermined cause,",
+                "num": 635,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "including the relevant listed diseases referred to in Annex I to Commission Delegated Regulation (EU)",
+                "num": 645,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "2020/692 and emerging diseases;",
+                "num": 655,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 664,
+                "size": 4.98,
+                "x": 344,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 664,
+                "size": 4.98,
+                "x": 344,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 144.8986,
+            "y": 667.2031,
+            "str": "II.2.1.2.",
+            "dir": "ltr",
+            "width": 25.30298399999993,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 3,
+            "absoluteY": 2351,
+            "endY": 709,
+            "endPage": 3,
+            "absoluteEndY": 2393,
+            "name": "II.2.1.2.",
+            "lines": [
+              {
+                "str": "II.2.1.2.",
+                "num": 667,
+                "size": 7.98,
+                "x": 145,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "The [aquatic animals are not intended to be killed]",
+                "num": 667,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 664,
+                "size": 4.98,
+                "x": 344,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than",
+                "num": 667,
+                "size": 7.98,
+                "x": 351,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "live aquatic animals, have been obtained from animals which were not intended to be killed]",
+                "num": 677,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 674,
+                "size": 4.98,
+                "x": 478,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "under a national",
+                "num": 677,
+                "size": 7.98,
+                "x": 486,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "programme for the eradication of diseases, including the listed diseases referred to in Annex I to Delegated",
+                "num": 687,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "Regulation (EU) 2020/692 relevant for the species and emerging diseases.",
+                "num": 697,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 706,
+                "size": 4.98,
+                "x": 92,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 706,
+                "size": 4.98,
+                "x": 288,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 706,
+                "size": 4.98,
+                "x": 288,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 106.6798,
+        "y": 708.9597,
+        "str": "[II.2.2.",
+        "dir": "ltr",
+        "width": 22.020012000000023,
+        "height": 7.98,
+        "fontName": "g_d0_f5",
+        "page": 3,
+        "absoluteY": 2393,
+        "endY": 731,
+        "endPage": 3,
+        "absoluteEndY": 2415,
+        "name": "II.2.2.",
+        "lines": [
+          {
+            "str": "(4)",
+            "num": 706,
+            "size": 4.98,
+            "x": 92,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[II.2.2.",
+            "num": 709,
+            "size": 7.98,
+            "x": 107,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "The [aquaculture animals described in Part I]",
+            "num": 709,
+            "size": 7.98,
+            "x": 142,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 706,
+            "size": 4.98,
+            "x": 288,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[products of animal origin from aquaculture animals other than live",
+            "num": 709,
+            "size": 7.98,
+            "x": 295,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "aquaculture animals described in Part I, have been obtained from animals which]",
+            "num": 719,
+            "size": 7.98,
+            "x": 142,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 716,
+            "size": 4.98,
+            "x": 403,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "meet the following requirements:",
+            "num": 719,
+            "size": 7.98,
+            "x": 410,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 728,
+            "size": 4.98,
+            "x": 397,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 728,
+            "size": 4.98,
+            "x": 440,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 728,
+            "size": 4.98,
+            "x": 440,
+            "font": "g_d0_f5"
+          }
+        ],
+        "children": [
+          {
+            "x": 144.8968,
+            "y": 730.8018,
+            "str": "II.2.2.1.",
+            "dir": "ltr",
+            "width": 25.24393199999995,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 3,
+            "absoluteY": 2415,
+            "endY": 138,
+            "endPage": 4,
+            "absoluteEndY": 2664,
+            "name": "II.2.2.1.",
+            "lines": [
+              {
+                "str": "8361EHC en",
+                "num": 804,
+                "size": 10.02,
+                "x": 72,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "II.2.2.1.",
+                "num": 731,
+                "size": 7.98,
+                "x": 145,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They come from an aquaculture establishment which is [registered]",
+                "num": 731,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 728,
+                "size": 4.98,
+                "x": 397,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[approved]",
+                "num": 731,
+                "size": 7.98,
+                "x": 404,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 728,
+                "size": 4.98,
+                "x": 440,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "by, and under the control of,",
+                "num": 731,
+                "size": 7.98,
+                "x": 448,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the competent authority of the third country or territory of origin and which has a system in place to maintain",
+                "num": 741,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "and to keep for at least three years, up-to-date records containing information regarding:",
+                "num": 751,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 763,
+                "size": 7.98,
+                "x": 177,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the species, categories and number of aquaculture animals on the establishment;",
+                "num": 763,
+                "size": 7.98,
+                "x": 206,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the species, categories and number of aquaculture animals on the establishment;",
+                "num": 763,
+                "size": 7.98,
+                "x": 206,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "Certificate model FISH-CRUST-HC",
+                "num": 79,
+                "size": 7.98,
+                "x": 415,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "U",
+                "num": 103,
+                "size": 7.98,
+                "x": 46,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "N",
+                "num": 103,
+                "size": 7.98,
+                "x": 52,
+                "font": "g_d0_f4"
+              },
+              {
+                "str": "ITED KI",
+                "num": 103,
+                "size": 7.98,
+                "x": 57,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "N",
+                "num": 103,
+                "size": 7.98,
+                "x": 88,
+                "font": "g_d0_f4"
+              },
+              {
+                "str": "GDOM",
+                "num": 103,
+                "size": 7.98,
+                "x": 94,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "II.a",
+                "num": 91,
+                "size": 7.98,
+                "x": 418,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Certificate reference",
+                "num": 91,
+                "size": 7.98,
+                "x": 440,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(b)",
+                "num": 115,
+                "size": 7.98,
+                "x": 177,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "movements of aquatic animals into, and aquaculture animals out of, the establishment;",
+                "num": 115,
+                "size": 7.98,
+                "x": 206,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(c)",
+                "num": 127,
+                "size": 7.98,
+                "x": 177,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "mortality in the establishment;",
+                "num": 127,
+                "size": 7.98,
+                "x": 206,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "...........................................................",
+                "num": 100,
+                "size": 7.98,
+                "x": 419,
+                "font": "g_d0_f7"
+              },
+              {
+                "str": "...........................................................",
+                "num": 100,
+                "size": 7.98,
+                "x": 419,
+                "font": "g_d0_f7"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 144.9015,
+            "y": 138.41999999999996,
+            "str": "II.2.2.2.",
+            "dir": "ltr",
+            "width": 25.24393199999995,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 4,
+            "absoluteY": 2664,
+            "endY": 186,
+            "endPage": 4,
+            "absoluteEndY": 2712,
+            "name": "II.2.2.2.",
+            "lines": [
+              {
+                "str": "II.2.2.2.",
+                "num": 138,
+                "size": 7.98,
+                "x": 145,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They come from an aquaculture establishment which receives regular animal health visits from a veterinarian",
+                "num": 138,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "for the purpose of the detection of, and information on, signs indicative of the occurrence of diseases, including",
+                "num": 148,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the listed diseases referred to in Annex I to Delegated Regulation (EU) 2020/692 relevant for the species and",
+                "num": 158,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "emerging diseases, at a frequency that is proportionate to the risk posed by the establishment.]",
+                "num": 168,
+                "size": 7.98,
+                "x": 179,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "V4:",
+                "num": 165,
+                "size": 66.1768112610631,
+                "x": 10,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "V4:",
+                "num": 165,
+                "size": 66.1768112610631,
+                "x": 10,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 108.8957,
+        "y": 186.1803,
+        "str": "II.2.3.",
+        "dir": "ltr",
+        "width": 20.232492000000033,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 4,
+        "absoluteY": 2712,
+        "endY": 226,
+        "endPage": 4,
+        "absoluteEndY": 2752,
+        "name": "II.2.3.",
+        "lines": [
+          {
+            "str": "II.2.3.",
+            "num": 186,
+            "size": 7.98,
+            "x": 109,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "General animal health requirements",
+            "num": 186,
+            "size": 7.98,
+            "x": 145,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "The [aquatic animals described in Part I]",
+            "num": 204,
+            "size": 7.98,
+            "x": 109,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 201,
+            "size": 4.98,
+            "x": 241,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[products of animal origin from aquatic animals other than live aquatic animals described",
+            "num": 204,
+            "size": 7.98,
+            "x": 248,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "in Part I, have been obtained from animals which]",
+            "num": 214,
+            "size": 7.98,
+            "x": 109,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 211,
+            "size": 4.98,
+            "x": 270,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "meet the following animal health requirements:",
+            "num": 214,
+            "size": 7.98,
+            "x": 277,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4) (6)",
+            "num": 223,
+            "size": 4.98,
+            "x": 100,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 223,
+            "size": 4.98,
+            "x": 445,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 223,
+            "size": 4.98,
+            "x": 485,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 223,
+            "size": 4.98,
+            "x": 515,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 223,
+            "size": 4.98,
+            "x": 515,
+            "font": "g_d0_f5"
+          }
+        ],
+        "children": [
+          {
+            "x": 120.779898,
+            "y": 225.89970000000005,
+            "str": "[II.2.3.1.",
+            "dir": "ltr",
+            "width": 27.98506199999994,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 4,
+            "absoluteY": 2752,
+            "endY": 268,
+            "endPage": 4,
+            "absoluteEndY": 2794,
+            "name": "II.2.3.1.",
+            "lines": [
+              {
+                "str": "(4) (6)",
+                "num": 223,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.3.1.",
+                "num": 226,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They are subject to the requirements in point II.2.4. and they originate from a [country]",
+                "num": 226,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 223,
+                "size": 4.98,
+                "x": 445,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 226,
+                "size": 7.98,
+                "x": 452,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 223,
+                "size": 4.98,
+                "x": 485,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 226,
+                "size": 7.98,
+                "x": 492,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 223,
+                "size": 4.98,
+                "x": 515,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 236,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 233,
+                "size": 4.98,
+                "x": 212,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "with code:_ - __",
+                "num": 236,
+                "size": 7.98,
+                "x": 221,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(5)",
+                "num": 233,
+                "size": 4.98,
+                "x": 275,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which, at the date of issue of this animal health/official certificate, is listed in",
+                "num": 236,
+                "size": 7.98,
+                "x": 282,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "Part 1 of Annex XXI to Commission Implementing Regulation (EU) 2021/404 for the entry into the Union of",
+                "num": 246,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[aquatic animals]",
+                "num": 256,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 253,
+                "size": 4.98,
+                "x": 220,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic animals]",
+                "num": 256,
+                "size": 7.98,
+                "x": 227,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 253,
+                "size": 4.98,
+                "x": 484,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": ";]",
+                "num": 256,
+                "size": 7.98,
+                "x": 490,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 265,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "8361EHC",
+                "num": 248,
+                "size": 66.1768112610631,
+                "x": 93,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "8361EHC",
+                "num": 248,
+                "size": 66.1768112610631,
+                "x": 93,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.779898,
+            "y": 267.5997,
+            "str": "[II.2.3.2.",
+            "dir": "ltr",
+            "width": 28.001022000000066,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 4,
+            "absoluteY": 2794,
+            "endY": 309,
+            "endPage": 4,
+            "absoluteEndY": 2835,
+            "name": "II.2.3.2.",
+            "lines": [
+              {
+                "str": "(4) (6)",
+                "num": 265,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.3.2.",
+                "num": 268,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They are aquatic animals which have undergone clinical inspection in accordance with Article 166 of Delegated",
+                "num": 268,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "Regulation (EU) 2020/692 within a period of 72 hours prior to the time of loading. During the inspection, the",
+                "num": 278,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals showed no signs of transmissible disease and, according to the relevant records of the establishment, there",
+                "num": 287,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "was no indication of disease problems;]",
+                "num": 297,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(11)",
+                "num": 306,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(11)",
+                "num": 306,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7797,
+            "y": 309.3597,
+            "str": "II.2.3.3.",
+            "dir": "ltr",
+            "width": 25.309367999999953,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 4,
+            "absoluteY": 2835,
+            "endY": 321,
+            "endPage": 4,
+            "absoluteEndY": 2847,
+            "name": "II.2.3.3.",
+            "lines": [
+              {
+                "str": "(11)",
+                "num": 306,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "II.2.3.3.",
+                "num": 309,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They are aquatic animals which are dispatched to the Union directly from the place of origin;",
+                "num": 309,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They are aquatic animals which are dispatched to the Union directly from the place of origin;",
+                "num": 309,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7837,
+            "y": 321.29780000000005,
+            "str": "II.2.3.4.",
+            "dir": "ltr",
+            "width": 25.21999199999997,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 4,
+            "absoluteY": 2847,
+            "endY": 339,
+            "endPage": 4,
+            "absoluteEndY": 2865,
+            "name": "II.2.3.4.",
+            "lines": [
+              {
+                "str": "II.2.3.4.",
+                "num": 321,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "They have not been in contact with aquatic animals of a lower health status.",
+                "num": 321,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 336,
+                "size": 4.98,
+                "x": 73,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 336,
+                "size": 4.98,
+                "x": 73,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 120.7796,
+        "y": 339.2397,
+        "str": "[II.2.4.",
+        "dir": "ltr",
+        "width": 22.867487999999994,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 4,
+        "absoluteY": 2865,
+        "endY": 357,
+        "endPage": 4,
+        "absoluteEndY": 2883,
+        "name": "II.2.4.",
+        "lines": [
+          {
+            "str": "(4) (6)",
+            "num": 336,
+            "size": 4.98,
+            "x": 73,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "either",
+            "num": 339,
+            "size": 7.98,
+            "x": 87,
+            "font": "g_d0_f8"
+          },
+          {
+            "str": "[II.2.4.",
+            "num": 339,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Specific health requirements",
+            "num": 339,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "(4)",
+            "num": 354,
+            "size": 4.98,
+            "x": 109,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(3)",
+            "num": 354,
+            "size": 4.98,
+            "x": 246,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "(3)",
+            "num": 354,
+            "size": 4.98,
+            "x": 246,
+            "font": "g_d0_f2"
+          }
+        ],
+        "children": [
+          {
+            "x": 120.7791,
+            "y": 476.2797,
+            "str": "[II.2.4.2.",
+            "dir": "ltr",
+            "width": 28.857275999999988,
+            "height": 7.98,
+            "fontName": "g_d0_f2",
+            "page": 4,
+            "absoluteY": 3002,
+            "endY": 605,
+            "endPage": 4,
+            "absoluteEndY": 3131,
+            "name": "II.2.4.2.",
+            "lines": [
+              {
+                "str": "(4) (7)",
+                "num": 473,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.4.2.",
+                "num": 476,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Requirements for listed",
+                "num": 476,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(3)",
+                "num": 473,
+                "size": 4.98,
+                "x": 246,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "species for Viral haemorrhagic septicaemia (VHS), Infectious haematopoietic",
+                "num": 476,
+                "size": 7.98,
+                "x": 253,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "necrosis (IH",
+                "num": 486,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "N",
+                "num": 486,
+                "size": 7.98,
+                "x": 205,
+                "font": "g_d0_f4"
+              },
+              {
+                "str": "), infection with HPR-deleted infectious salmon anaemia virus (ISAV) or infection with White",
+                "num": 486,
+                "size": 7.98,
+                "x": 210,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "spot syndrome virus",
+                "num": 496,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "The [aquatic animals described in Part I]",
+                "num": 514,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 511,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic",
+                "num": 514,
+                "size": 7.98,
+                "x": 303,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals described in Part I, have been obtained from animals which]",
+                "num": 524,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 521,
+                "size": 4.98,
+                "x": 385,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "originate from a [country]",
+                "num": 524,
+                "size": 7.98,
+                "x": 392,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 521,
+                "size": 4.98,
+                "x": 477,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 524,
+                "size": 7.98,
+                "x": 484,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 521,
+                "size": 4.98,
+                "x": 517,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 534,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 531,
+                "size": 4.98,
+                "x": 186,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 534,
+                "size": 7.98,
+                "x": 193,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 531,
+                "size": 4.98,
+                "x": 242,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "declared free from [Viral haemorrhagic septicaemia (VHS)]",
+                "num": 534,
+                "size": 7.98,
+                "x": 249,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 531,
+                "size": 4.98,
+                "x": 443,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[Infectious haematopoietic",
+                "num": 534,
+                "size": 7.98,
+                "x": 450,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "necrosis (IHN)]",
+                "num": 544,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 541,
+                "size": 4.98,
+                "x": 216,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with HPR-deleted infectious salmon anaemia virus (ISAV)]",
+                "num": 544,
+                "size": 7.98,
+                "x": 223,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 541,
+                "size": 4.98,
+                "x": 449,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with White",
+                "num": 544,
+                "size": 7.98,
+                "x": 456,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "spot syndrome virus]",
+                "num": 554,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 551,
+                "size": 4.98,
+                "x": 232,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "in accordance with Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 and in the",
+                "num": 554,
+                "size": 7.98,
+                "x": 240,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "case of aquatic animals, all listed",
+                "num": 564,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(3)",
+                "num": 561,
+                "size": 4.98,
+                "x": 271,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "species for the relevant disease(s):",
+                "num": 564,
+                "size": 7.98,
+                "x": 278,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 576,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are introduced from another country or territory, or zone or compartment thereof which has been declared free",
+                "num": 576,
+                "size": 7.98,
+                "x": 184,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "from the same disease(s);",
+                "num": 586,
+                "size": 7.98,
+                "x": 184,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(b)",
+                "num": 596,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are not vaccinated against [that]",
+                "num": 596,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 592,
+                "size": 4.98,
+                "x": 289,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[those]",
+                "num": 595,
+                "size": 7.98,
+                "x": 296,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 592,
+                "size": 4.98,
+                "x": 319,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "disease(s).]",
+                "num": 595,
+                "size": 7.98,
+                "x": 327,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (8)",
+                "num": 602,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(9)",
+                "num": 602,
+                "size": 4.98,
+                "x": 251,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(9)",
+                "num": 602,
+                "size": 4.98,
+                "x": 251,
+                "font": "g_d0_f2"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7791,
+            "y": 605.3996999999999,
+            "str": "[II.2.4.3.",
+            "dir": "ltr",
+            "width": 28.857275999999988,
+            "height": 7.98,
+            "fontName": "g_d0_f2",
+            "page": 4,
+            "absoluteY": 3131,
+            "endY": 711,
+            "endPage": 4,
+            "absoluteEndY": 3237,
+            "name": "II.2.4.3.",
+            "lines": [
+              {
+                "str": "(4) (8)",
+                "num": 602,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.4.3.",
+                "num": 605,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Requirements for species",
+                "num": 605,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(9)",
+                "num": 602,
+                "size": 4.98,
+                "x": 251,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "susceptible to infection with Spring viraemia of carp (SVC), Bacterial Kidney",
+                "num": 605,
+                "size": 7.98,
+                "x": 258,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "disease (BKD), infection with Infectious pancreatic necrosis virus (IP",
+                "num": 615,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "N",
+                "num": 615,
+                "size": 7.98,
+                "x": 398,
+                "font": "g_d0_f4"
+              },
+              {
+                "str": "), infection with Gyrodactylus salaris",
+                "num": 615,
+                "size": 7.98,
+                "x": 404,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(GS),",
+                "num": 625,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "infection with Salmonid alphavirus (SAV) and species",
+                "num": 625,
+                "size": 7.98,
+                "x": 183,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(3)",
+                "num": 622,
+                "size": 4.98,
+                "x": 369,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "susceptible to Koi herpes virus disease (KHV)",
+                "num": 625,
+                "size": 7.98,
+                "x": 377,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "The [aquatic animals described in Part I]",
+                "num": 643,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 640,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic",
+                "num": 643,
+                "size": 7.98,
+                "x": 302,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals described in Part I have been obtained from animals which]",
+                "num": 653,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 650,
+                "size": 4.98,
+                "x": 382,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "originate from a [country]",
+                "num": 653,
+                "size": 7.98,
+                "x": 390,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 650,
+                "size": 4.98,
+                "x": 475,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 653,
+                "size": 7.98,
+                "x": 482,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 650,
+                "size": 4.98,
+                "x": 516,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 663,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 186,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 663,
+                "size": 7.98,
+                "x": 193,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 242,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which fulfils the health guarantees as regards [SVC,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 249,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 421,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[BKD,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 428,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 454,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[IPN,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 461,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 483,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[GS,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 490,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 510,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[SAV,]",
+                "num": 673,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 670,
+                "size": 4.98,
+                "x": 189,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[KHV,]",
+                "num": 673,
+                "size": 7.98,
+                "x": 196,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 670,
+                "size": 4.98,
+                "x": 222,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which are necessary to comply with the national measures which apply in the Member State of",
+                "num": 673,
+                "size": 7.98,
+                "x": 229,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "destination in accordance with Article 175 of Delegated Regulation (EU) 2020/692, and for which the Member State",
+                "num": 683,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "or part thereof, is listed in [Annex I]",
+                "num": 693,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 690,
+                "size": 4.98,
+                "x": 281,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[Annex II]",
+                "num": 693,
+                "size": 7.98,
+                "x": 288,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 690,
+                "size": 4.98,
+                "x": 324,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "to Commission Implementing Decision (EU) 2021/260.]]",
+                "num": 693,
+                "size": 7.98,
+                "x": 331,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 708,
+                "size": 4.98,
+                "x": 78,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 708,
+                "size": 4.98,
+                "x": 78,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7768,
+            "y": 357.0597,
+            "str": "[II.2.4.1",
+            "dir": "ltr",
+            "width": 26.845534,
+            "height": 7.98,
+            "fontName": "g_d0_f2",
+            "page": 4,
+            "absoluteY": 2883,
+            "endY": 476,
+            "endPage": 4,
+            "absoluteEndY": 3002,
+            "name": "II.2.4.1",
+            "lines": [
+              {
+                "str": "(4)",
+                "num": 354,
+                "size": 4.98,
+                "x": 109,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.4.1",
+                "num": 357,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Requirements for listed",
+                "num": 357,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(3)",
+                "num": 354,
+                "size": 4.98,
+                "x": 246,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "species for Epizootic haematopoietic necrosis, infection with Taura syndrome virus,",
+                "num": 357,
+                "size": 7.98,
+                "x": 253,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "infection with yellow head virus",
+                "num": 367,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "The [aquatic animals described in Part I]",
+                "num": 385,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 382,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic",
+                "num": 385,
+                "size": 7.98,
+                "x": 302,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals described in Part I have been obtained from animals which]",
+                "num": 395,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 392,
+                "size": 4.98,
+                "x": 383,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "originate from a [country]",
+                "num": 395,
+                "size": 7.98,
+                "x": 390,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 392,
+                "size": 4.98,
+                "x": 475,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 395,
+                "size": 7.98,
+                "x": 482,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 392,
+                "size": 4.98,
+                "x": 515,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 405,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 402,
+                "size": 4.98,
+                "x": 186,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 405,
+                "size": 7.98,
+                "x": 193,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 402,
+                "size": 4.98,
+                "x": 242,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "declared free from [Epizootic haematopoietic necrosis]",
+                "num": 405,
+                "size": 7.98,
+                "x": 249,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 402,
+                "size": 4.98,
+                "x": 428,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with Taura syndrome",
+                "num": 405,
+                "size": 7.98,
+                "x": 435,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "virus]",
+                "num": 415,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 412,
+                "size": 4.98,
+                "x": 184,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with yellow head virus]",
+                "num": 415,
+                "size": 7.98,
+                "x": 191,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 412,
+                "size": 4.98,
+                "x": 302,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "in accordance with conditions which are at least as stringent as those",
+                "num": 415,
+                "size": 7.98,
+                "x": 309,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "laid down in Article 66 or in Article 73(1) and Article 73(2), point (a), of Commission Delegated Regulation (EU)",
+                "num": 425,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "2020/689 and in the case of aquatic animals, all listed",
+                "num": 435,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(3)",
+                "num": 432,
+                "size": 4.98,
+                "x": 337,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "species for the relevant disease(s):",
+                "num": 435,
+                "size": 7.98,
+                "x": 344,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 447,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are introduced from another country or territory, or zone or compartment thereof which has been declared",
+                "num": 447,
+                "size": 7.98,
+                "x": 192,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "free from the same disease(s);",
+                "num": 456,
+                "size": 7.98,
+                "x": 192,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(b)",
+                "num": 466,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are not vaccinated against [that]",
+                "num": 466,
+                "size": 7.98,
+                "x": 192,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 463,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[those]",
+                "num": 466,
+                "size": 7.98,
+                "x": 303,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 463,
+                "size": 4.98,
+                "x": 327,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "disease(s).]",
+                "num": 466,
+                "size": 7.98,
+                "x": 335,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (7)",
+                "num": 473,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(3)",
+                "num": 473,
+                "size": 4.98,
+                "x": 246,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "SPECIMEN",
+                "num": 464,
+                "size": 66.1768112610631,
+                "x": 309,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "SPECIMEN",
+                "num": 464,
+                "size": 66.1768112610631,
+                "x": 309,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 123.4232,
+        "y": 710.8197,
+        "str": "II.2.4.",
+        "dir": "ltr",
+        "width": 20.232492000000004,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 4,
+        "absoluteY": 3237,
+        "endY": 115,
+        "endPage": 5,
+        "absoluteEndY": 3483,
+        "name": "II.2.4.",
+        "lines": [
+          {
+            "str": "8361EHC en",
+            "num": 804,
+            "size": 10.02,
+            "x": 72,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "(4) (6)",
+            "num": 708,
+            "size": 4.98,
+            "x": 78,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "or",
+            "num": 711,
+            "size": 7.98,
+            "x": 100,
+            "font": "g_d0_f8"
+          },
+          {
+            "str": "[",
+            "num": 711,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "II.2.4.",
+            "num": 711,
+            "size": 7.98,
+            "x": 123,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Specific health requirements",
+            "num": 711,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "The [aquatic animals described in Part I]",
+            "num": 729,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 726,
+            "size": 4.98,
+            "x": 295,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[products of animal origin from aquatic animals other than live aquatic",
+            "num": 729,
+            "size": 7.98,
+            "x": 302,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "animals described in Part I have been obtained from animals which]",
+            "num": 739,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 736,
+            "size": 4.98,
+            "x": 383,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "are destined for an disease control aquatic",
+            "num": 739,
+            "size": 7.98,
+            "x": 390,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "food establishment within the Union which is approved in accordance with Article 11 of Commission Delegated",
+            "num": 749,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "Regulation (EU) 2020/691, where they are to be processed for human consumption.]",
+            "num": 759,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "Regulation (EU) 2020/691, where they are to be processed for human consumption.]",
+            "num": 759,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "Certificate model FISH-CRUST-HC",
+            "num": 79,
+            "size": 7.98,
+            "x": 415,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "U",
+            "num": 103,
+            "size": 7.98,
+            "x": 46,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "N",
+            "num": 103,
+            "size": 7.98,
+            "x": 52,
+            "font": "g_d0_f4"
+          },
+          {
+            "str": "ITED KI",
+            "num": 103,
+            "size": 7.98,
+            "x": 57,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "N",
+            "num": 103,
+            "size": 7.98,
+            "x": 88,
+            "font": "g_d0_f4"
+          },
+          {
+            "str": "GDOM",
+            "num": 103,
+            "size": 7.98,
+            "x": 94,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "II.a",
+            "num": 91,
+            "size": 7.98,
+            "x": 418,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Certificate reference",
+            "num": 91,
+            "size": 7.98,
+            "x": 440,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "(4)",
+            "num": 112,
+            "size": 4.98,
+            "x": 493,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "...........................................................",
+            "num": 102,
+            "size": 7.98,
+            "x": 418,
+            "font": "g_d0_f7"
+          },
+          {
+            "str": "...........................................................",
+            "num": 102,
+            "size": 7.98,
+            "x": 418,
+            "font": "g_d0_f7"
+          }
+        ],
+        "children": [
+          {
+            "x": 120.7791,
+            "y": 476.2797,
+            "str": "[II.2.4.2.",
+            "dir": "ltr",
+            "width": 28.857275999999988,
+            "height": 7.98,
+            "fontName": "g_d0_f2",
+            "page": 4,
+            "absoluteY": 3002,
+            "endY": 605,
+            "endPage": 4,
+            "absoluteEndY": 3131,
+            "name": "II.2.4.2.",
+            "lines": [
+              {
+                "str": "(4) (7)",
+                "num": 473,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.4.2.",
+                "num": 476,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Requirements for listed",
+                "num": 476,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(3)",
+                "num": 473,
+                "size": 4.98,
+                "x": 246,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "species for Viral haemorrhagic septicaemia (VHS), Infectious haematopoietic",
+                "num": 476,
+                "size": 7.98,
+                "x": 253,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "necrosis (IH",
+                "num": 486,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "N",
+                "num": 486,
+                "size": 7.98,
+                "x": 205,
+                "font": "g_d0_f4"
+              },
+              {
+                "str": "), infection with HPR-deleted infectious salmon anaemia virus (ISAV) or infection with White",
+                "num": 486,
+                "size": 7.98,
+                "x": 210,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "spot syndrome virus",
+                "num": 496,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "The [aquatic animals described in Part I]",
+                "num": 514,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 511,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic",
+                "num": 514,
+                "size": 7.98,
+                "x": 303,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals described in Part I, have been obtained from animals which]",
+                "num": 524,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 521,
+                "size": 4.98,
+                "x": 385,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "originate from a [country]",
+                "num": 524,
+                "size": 7.98,
+                "x": 392,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 521,
+                "size": 4.98,
+                "x": 477,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 524,
+                "size": 7.98,
+                "x": 484,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 521,
+                "size": 4.98,
+                "x": 517,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 534,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 531,
+                "size": 4.98,
+                "x": 186,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 534,
+                "size": 7.98,
+                "x": 193,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 531,
+                "size": 4.98,
+                "x": 242,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "declared free from [Viral haemorrhagic septicaemia (VHS)]",
+                "num": 534,
+                "size": 7.98,
+                "x": 249,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 531,
+                "size": 4.98,
+                "x": 443,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[Infectious haematopoietic",
+                "num": 534,
+                "size": 7.98,
+                "x": 450,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "necrosis (IHN)]",
+                "num": 544,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 541,
+                "size": 4.98,
+                "x": 216,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with HPR-deleted infectious salmon anaemia virus (ISAV)]",
+                "num": 544,
+                "size": 7.98,
+                "x": 223,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 541,
+                "size": 4.98,
+                "x": 449,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with White",
+                "num": 544,
+                "size": 7.98,
+                "x": 456,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "spot syndrome virus]",
+                "num": 554,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 551,
+                "size": 4.98,
+                "x": 232,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "in accordance with Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 and in the",
+                "num": 554,
+                "size": 7.98,
+                "x": 240,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "case of aquatic animals, all listed",
+                "num": 564,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(3)",
+                "num": 561,
+                "size": 4.98,
+                "x": 271,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "species for the relevant disease(s):",
+                "num": 564,
+                "size": 7.98,
+                "x": 278,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 576,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are introduced from another country or territory, or zone or compartment thereof which has been declared free",
+                "num": 576,
+                "size": 7.98,
+                "x": 184,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "from the same disease(s);",
+                "num": 586,
+                "size": 7.98,
+                "x": 184,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(b)",
+                "num": 596,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are not vaccinated against [that]",
+                "num": 596,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 592,
+                "size": 4.98,
+                "x": 289,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[those]",
+                "num": 595,
+                "size": 7.98,
+                "x": 296,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 592,
+                "size": 4.98,
+                "x": 319,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "disease(s).]",
+                "num": 595,
+                "size": 7.98,
+                "x": 327,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (8)",
+                "num": 602,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(9)",
+                "num": 602,
+                "size": 4.98,
+                "x": 251,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(9)",
+                "num": 602,
+                "size": 4.98,
+                "x": 251,
+                "font": "g_d0_f2"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7791,
+            "y": 605.3996999999999,
+            "str": "[II.2.4.3.",
+            "dir": "ltr",
+            "width": 28.857275999999988,
+            "height": 7.98,
+            "fontName": "g_d0_f2",
+            "page": 4,
+            "absoluteY": 3131,
+            "endY": 711,
+            "endPage": 4,
+            "absoluteEndY": 3237,
+            "name": "II.2.4.3.",
+            "lines": [
+              {
+                "str": "(4) (8)",
+                "num": 602,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.4.3.",
+                "num": 605,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Requirements for species",
+                "num": 605,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(9)",
+                "num": 602,
+                "size": 4.98,
+                "x": 251,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "susceptible to infection with Spring viraemia of carp (SVC), Bacterial Kidney",
+                "num": 605,
+                "size": 7.98,
+                "x": 258,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "disease (BKD), infection with Infectious pancreatic necrosis virus (IP",
+                "num": 615,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "N",
+                "num": 615,
+                "size": 7.98,
+                "x": 398,
+                "font": "g_d0_f4"
+              },
+              {
+                "str": "), infection with Gyrodactylus salaris",
+                "num": 615,
+                "size": 7.98,
+                "x": 404,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(GS),",
+                "num": 625,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "infection with Salmonid alphavirus (SAV) and species",
+                "num": 625,
+                "size": 7.98,
+                "x": 183,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(3)",
+                "num": 622,
+                "size": 4.98,
+                "x": 369,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "susceptible to Koi herpes virus disease (KHV)",
+                "num": 625,
+                "size": 7.98,
+                "x": 377,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "The [aquatic animals described in Part I]",
+                "num": 643,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 640,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic",
+                "num": 643,
+                "size": 7.98,
+                "x": 302,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals described in Part I have been obtained from animals which]",
+                "num": 653,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 650,
+                "size": 4.98,
+                "x": 382,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "originate from a [country]",
+                "num": 653,
+                "size": 7.98,
+                "x": 390,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 650,
+                "size": 4.98,
+                "x": 475,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 653,
+                "size": 7.98,
+                "x": 482,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 650,
+                "size": 4.98,
+                "x": 516,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 663,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 186,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 663,
+                "size": 7.98,
+                "x": 193,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 242,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which fulfils the health guarantees as regards [SVC,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 249,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 421,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[BKD,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 428,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 454,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[IPN,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 461,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 483,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[GS,]",
+                "num": 663,
+                "size": 7.98,
+                "x": 490,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 660,
+                "size": 4.98,
+                "x": 510,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[SAV,]",
+                "num": 673,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 670,
+                "size": 4.98,
+                "x": 189,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[KHV,]",
+                "num": 673,
+                "size": 7.98,
+                "x": 196,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 670,
+                "size": 4.98,
+                "x": 222,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which are necessary to comply with the national measures which apply in the Member State of",
+                "num": 673,
+                "size": 7.98,
+                "x": 229,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "destination in accordance with Article 175 of Delegated Regulation (EU) 2020/692, and for which the Member State",
+                "num": 683,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "or part thereof, is listed in [Annex I]",
+                "num": 693,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 690,
+                "size": 4.98,
+                "x": 281,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[Annex II]",
+                "num": 693,
+                "size": 7.98,
+                "x": 288,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 690,
+                "size": 4.98,
+                "x": 324,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "to Commission Implementing Decision (EU) 2021/260.]]",
+                "num": 693,
+                "size": 7.98,
+                "x": 331,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 708,
+                "size": 4.98,
+                "x": 78,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (6)",
+                "num": 708,
+                "size": 4.98,
+                "x": 78,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7768,
+            "y": 357.0597,
+            "str": "[II.2.4.1",
+            "dir": "ltr",
+            "width": 26.845534,
+            "height": 7.98,
+            "fontName": "g_d0_f2",
+            "page": 4,
+            "absoluteY": 2883,
+            "endY": 476,
+            "endPage": 4,
+            "absoluteEndY": 3002,
+            "name": "II.2.4.1",
+            "lines": [
+              {
+                "str": "(4)",
+                "num": 354,
+                "size": 4.98,
+                "x": 109,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.4.1",
+                "num": 357,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "Requirements for listed",
+                "num": 357,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "(3)",
+                "num": 354,
+                "size": 4.98,
+                "x": 246,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "species for Epizootic haematopoietic necrosis, infection with Taura syndrome virus,",
+                "num": 357,
+                "size": 7.98,
+                "x": 253,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "infection with yellow head virus",
+                "num": 367,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "The [aquatic animals described in Part I]",
+                "num": 385,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 382,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[products of animal origin from aquatic animals other than live aquatic",
+                "num": 385,
+                "size": 7.98,
+                "x": 302,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "animals described in Part I have been obtained from animals which]",
+                "num": 395,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 392,
+                "size": 4.98,
+                "x": 383,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "originate from a [country]",
+                "num": 395,
+                "size": 7.98,
+                "x": 390,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 392,
+                "size": 4.98,
+                "x": 475,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 395,
+                "size": 7.98,
+                "x": 482,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 392,
+                "size": 4.98,
+                "x": 515,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 405,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 402,
+                "size": 4.98,
+                "x": 186,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 405,
+                "size": 7.98,
+                "x": 193,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 402,
+                "size": 4.98,
+                "x": 242,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "declared free from [Epizootic haematopoietic necrosis]",
+                "num": 405,
+                "size": 7.98,
+                "x": 249,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 402,
+                "size": 4.98,
+                "x": 428,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with Taura syndrome",
+                "num": 405,
+                "size": 7.98,
+                "x": 435,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "virus]",
+                "num": 415,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 412,
+                "size": 4.98,
+                "x": 184,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[infection with yellow head virus]",
+                "num": 415,
+                "size": 7.98,
+                "x": 191,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 412,
+                "size": 4.98,
+                "x": 302,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "in accordance with conditions which are at least as stringent as those",
+                "num": 415,
+                "size": 7.98,
+                "x": 309,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "laid down in Article 66 or in Article 73(1) and Article 73(2), point (a), of Commission Delegated Regulation (EU)",
+                "num": 425,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "2020/689 and in the case of aquatic animals, all listed",
+                "num": 435,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(3)",
+                "num": 432,
+                "size": 4.98,
+                "x": 337,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "species for the relevant disease(s):",
+                "num": 435,
+                "size": 7.98,
+                "x": 344,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 447,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are introduced from another country or territory, or zone or compartment thereof which has been declared",
+                "num": 447,
+                "size": 7.98,
+                "x": 192,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "free from the same disease(s);",
+                "num": 456,
+                "size": 7.98,
+                "x": 192,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(b)",
+                "num": 466,
+                "size": 7.98,
+                "x": 163,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "are not vaccinated against [that]",
+                "num": 466,
+                "size": 7.98,
+                "x": 192,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 463,
+                "size": 4.98,
+                "x": 295,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[those]",
+                "num": 466,
+                "size": 7.98,
+                "x": 303,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 463,
+                "size": 4.98,
+                "x": 327,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "disease(s).]",
+                "num": 466,
+                "size": 7.98,
+                "x": 335,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (7)",
+                "num": 473,
+                "size": 4.98,
+                "x": 100,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(3)",
+                "num": 473,
+                "size": 4.98,
+                "x": 246,
+                "font": "g_d0_f2"
+              },
+              {
+                "str": "SPECIMEN",
+                "num": 464,
+                "size": 66.1768112610631,
+                "x": 309,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "SPECIMEN",
+                "num": 464,
+                "size": 66.1768112610631,
+                "x": 309,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 120.78,
+        "y": 114.53970000000004,
+        "str": "II.2.5.",
+        "dir": "ltr",
+        "width": 20.232492000000004,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 5,
+        "absoluteY": 3483,
+        "endY": 180,
+        "endPage": 5,
+        "absoluteEndY": 3548,
+        "name": "II.2.5.",
+        "lines": [
+          {
+            "str": "II.2.5.",
+            "num": 115,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "To the best of my knowledge, and as declared by the operator, the [aquatic animals described in Part I]",
+            "num": 115,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 112,
+            "size": 4.98,
+            "x": 493,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[products",
+            "num": 115,
+            "size": 7.98,
+            "x": 500,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "of animal origin from aquatic animals other than live aquatic animals described in Part I have been obtained from",
+            "num": 124,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "animals which]",
+            "num": 134,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 131,
+            "size": 4.98,
+            "x": 214,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "originate from [an establishment]",
+            "num": 134,
+            "size": 7.98,
+            "x": 223,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 131,
+            "size": 4.98,
+            "x": 332,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "[a habitat]",
+            "num": 134,
+            "size": 7.98,
+            "x": 339,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 131,
+            "size": 4.98,
+            "x": 373,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "where:",
+            "num": 134,
+            "size": 7.98,
+            "x": 380,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(a)",
+            "num": 146,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "there were no abnormal mortalities with an undetermined cause; and",
+            "num": 146,
+            "size": 7.98,
+            "x": 192,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(b)",
+            "num": 156,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "they have not been in contact with aquatic animals of listed",
+            "num": 156,
+            "size": 7.98,
+            "x": 192,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(3)",
+            "num": 153,
+            "size": 4.98,
+            "x": 383,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "species which did not comply with the",
+            "num": 156,
+            "size": 7.98,
+            "x": 392,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "requirements referred to in point II.2.1.",
+            "num": 166,
+            "size": 7.98,
+            "x": 192,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "V4:",
+            "num": 165,
+            "size": 66.1768112610631,
+            "x": 10,
+            "font": "g_d0_f10"
+          },
+          {
+            "str": "V4:",
+            "num": 165,
+            "size": 66.1768112610631,
+            "x": 10,
+            "font": "g_d0_f10"
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 120.7838,
+        "y": 180.1159,
+        "str": "II.2.6.",
+        "dir": "ltr",
+        "width": 20.232492000000004,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 5,
+        "absoluteY": 3548,
+        "endY": 220,
+        "endPage": 5,
+        "absoluteEndY": 3588,
+        "name": "II.2.6.",
+        "lines": [
+          {
+            "str": "II.2.6.",
+            "num": 180,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Transport requirements",
+            "num": 180,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Arrangements have been made to transport the aquatic animals described in Part I in accordance with the requirements set out in",
+            "num": 198,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "Articles 167 and 168 of Delegated Regulation (EU) 2020/692 and specifically that:",
+            "num": 208,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "Articles 167 and 168 of Delegated Regulation (EU) 2020/692 and specifically that:",
+            "num": 208,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f5"
+          }
+        ],
+        "children": [
+          {
+            "x": 120.7838,
+            "y": 219.89620000000002,
+            "str": "II.2.6.1.",
+            "dir": "ltr",
+            "width": 25.296599999999927,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3588,
+            "endY": 252,
+            "endPage": 5,
+            "absoluteEndY": 3620,
+            "name": "II.2.6.1.",
+            "lines": [
+              {
+                "str": "II.2.6.1.",
+                "num": 220,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "when the aquatic animals are transported in water, the water in which they are transported is not changed in a",
+                "num": 220,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "third country or territory, or zone or compartment thereof which is not listed for entry into the Union of the",
+                "num": 230,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "particular species and category of aquatic animals;",
+                "num": 240,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "8361EHC",
+                "num": 248,
+                "size": 66.1768112610631,
+                "x": 93,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "8361EHC",
+                "num": 248,
+                "size": 66.1768112610631,
+                "x": 93,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 122.5154,
+            "y": 251.70439999999996,
+            "str": "II.2.6.2.",
+            "dir": "ltr",
+            "width": 25.309367999999953,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3620,
+            "endY": 326,
+            "endPage": 5,
+            "absoluteEndY": 3694,
+            "name": "II.2.6.2.",
+            "lines": [
+              {
+                "str": "II.2.6.2.",
+                "num": 252,
+                "size": 7.98,
+                "x": 123,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the aquatic animals are not transported under conditions that jeopardise their health status, in particular:",
+                "num": 252,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(i)",
+                "num": 263,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "when the aquatic animals are transported in water, it does not alter their health status;",
+                "num": 263,
+                "size": 7.98,
+                "x": 217,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(ii)",
+                "num": 274,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the means of transport and the containers are constructed in such a way that the health status of the",
+                "num": 274,
+                "size": 7.98,
+                "x": 217,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "aquatic animals is not jeopardised during transportation;",
+                "num": 283,
+                "size": 7.98,
+                "x": 217,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(iii)",
+                "num": 294,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the [container]",
+                "num": 294,
+                "size": 7.98,
+                "x": 217,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 291,
+                "size": 4.98,
+                "x": 266,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[well-boat]",
+                "num": 294,
+                "size": 7.98,
+                "x": 273,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 291,
+                "size": 4.98,
+                "x": 310,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "is [previously unused]",
+                "num": 294,
+                "size": 7.98,
+                "x": 317,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 291,
+                "size": 4.98,
+                "x": 391,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[cleaned and disinfected in accordance with",
+                "num": 294,
+                "size": 7.98,
+                "x": 398,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "a protocol and with products approved by the competent authority of the third country or territory of",
+                "num": 304,
+                "size": 7.98,
+                "x": 217,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "origin]",
+                "num": 314,
+                "size": 7.98,
+                "x": 217,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 311,
+                "size": 4.98,
+                "x": 241,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": ", prior to the time of loading for dispatch to the Union;",
+                "num": 314,
+                "size": 7.98,
+                "x": 247,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "8361EHC",
+                "num": 248,
+                "size": 66.1768112610631,
+                "x": 93,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "8361EHC",
+                "num": 248,
+                "size": 66.1768112610631,
+                "x": 93,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7832,
+            "y": 326.21810000000005,
+            "str": "II.2.6.3.",
+            "dir": "ltr",
+            "width": 25.309367999999953,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3694,
+            "endY": 358,
+            "endPage": 5,
+            "absoluteEndY": 3726,
+            "name": "II.2.6.3.",
+            "lines": [
+              {
+                "str": "II.2.6.3.",
+                "num": 326,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "from the time of loading at the place of origin until the time of arrival in the Union, the animals in the",
+                "num": 326,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "consignment are not transported in the same water or [container]",
+                "num": 336,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 333,
+                "size": 4.98,
+                "x": 390,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[well-boat]",
+                "num": 336,
+                "size": 7.98,
+                "x": 397,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 333,
+                "size": 4.98,
+                "x": 434,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "together with aquatic animals",
+                "num": 336,
+                "size": 7.98,
+                "x": 441,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which are of a lower health status or which are not intended for the entry into the Union;",
+                "num": 346,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 345,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 386,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 415,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 471,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 471,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 120.7756,
+            "y": 358.021,
+            "str": "II.2.6.4.",
+            "dir": "ltr",
+            "width": 25.21999199999997,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3726,
+            "endY": 426,
+            "endPage": 5,
+            "absoluteEndY": 3794,
+            "name": "II.2.6.4.",
+            "lines": [
+              {
+                "str": "II.2.6.4.",
+                "num": 358,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "where a water exchange is necessary in a [country]",
+                "num": 358,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 345,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[territory]",
+                "num": 358,
+                "size": 7.98,
+                "x": 352,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 386,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[zone]",
+                "num": 358,
+                "size": 7.98,
+                "x": 393,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 415,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[compartment]",
+                "num": 358,
+                "size": 7.98,
+                "x": 422,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 355,
+                "size": 4.98,
+                "x": 471,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which is listed for",
+                "num": 358,
+                "size": 7.98,
+                "x": 480,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "entry into the Union of the particular species and category of aquatic animals, it only occurs [in the case of",
+                "num": 368,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "transport on land, at water exchange points approved by the competent authority of the third country or territory",
+                "num": 378,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "where the water exchange takes place]",
+                "num": 388,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 385,
+                "size": 4.98,
+                "x": 306,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[in the case of transport by well-boat, at a distance which is at least 10",
+                "num": 388,
+                "size": 7.98,
+                "x": 313,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "km from any aquaculture establishments which are located",
+                "num": 398,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "en-route",
+                "num": 398,
+                "size": 7.98,
+                "x": 371,
+                "font": "g_d0_f8"
+              },
+              {
+                "str": "from the place of origin to the place of",
+                "num": 398,
+                "size": 7.98,
+                "x": 400,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "destination in the Union]",
+                "num": 408,
+                "size": 7.98,
+                "x": 181,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 405,
+                "size": 4.98,
+                "x": 263,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": ".",
+                "num": 408,
+                "size": 7.98,
+                "x": 269,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": ".",
+                "num": 408,
+                "size": 7.98,
+                "x": 269,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 120.7784,
+        "y": 425.6387,
+        "str": "II.2.7.",
+        "dir": "ltr",
+        "width": 20.232492000000004,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 5,
+        "absoluteY": 3794,
+        "endY": 444,
+        "endPage": 5,
+        "absoluteEndY": 3812,
+        "name": "II.2.7.",
+        "lines": [
+          {
+            "str": "II.2.7.",
+            "num": 426,
+            "size": 7.98,
+            "x": 121,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Labelling requirements",
+            "num": 426,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "(4)",
+            "num": 441,
+            "size": 4.98,
+            "x": 430,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 441,
+            "size": 4.98,
+            "x": 478,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "(4)",
+            "num": 441,
+            "size": 4.98,
+            "x": 478,
+            "font": "g_d0_f5"
+          }
+        ],
+        "children": [
+          {
+            "x": 120.7784,
+            "y": 443.5219,
+            "str": "II.2.7.1.",
+            "dir": "ltr",
+            "width": 25.24594799999995,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3812,
+            "endY": 485,
+            "endPage": 5,
+            "absoluteEndY": 3853,
+            "name": "II.2.7.1.",
+            "lines": [
+              {
+                "str": "II.2.7.1.",
+                "num": 444,
+                "size": 7.98,
+                "x": 121,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "Arrangements have been made to identify and label the [means of transport]",
+                "num": 444,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 441,
+                "size": 4.98,
+                "x": 430,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[containers]",
+                "num": 444,
+                "size": 7.98,
+                "x": 437,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 441,
+                "size": 4.98,
+                "x": 478,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "in accordance",
+                "num": 444,
+                "size": 7.98,
+                "x": 485,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "with Article 169 of Delegated Regulation (EU) 2020/692 and specifically that the consignment is identified by",
+                "num": 453,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[a legible and visible label on the exterior of the container]",
+                "num": 463,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 460,
+                "size": 4.98,
+                "x": 374,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[an entry in the ships manifest when transported",
+                "num": 463,
+                "size": 7.98,
+                "x": 382,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "by well boat,]",
+                "num": 473,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 470,
+                "size": 4.98,
+                "x": 230,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "which clearly links the consignment to this animal health/official certificate;",
+                "num": 473,
+                "size": 7.98,
+                "x": 239,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 482,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "SPECIMEN",
+                "num": 464,
+                "size": 66.1768112610631,
+                "x": 309,
+                "font": "g_d0_f10"
+              },
+              {
+                "str": "SPECIMEN",
+                "num": 464,
+                "size": 66.1768112610631,
+                "x": 309,
+                "font": "g_d0_f10"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 119.3396,
+            "y": 485.2197,
+            "str": "[II.2.7.2.",
+            "dir": "ltr",
+            "width": 28.02496199999997,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3853,
+            "endY": 565,
+            "endPage": 5,
+            "absoluteEndY": 3933,
+            "name": "II.2.7.2.",
+            "lines": [
+              {
+                "str": "(4)",
+                "num": 482,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.7.2.",
+                "num": 485,
+                "size": 7.98,
+                "x": 119,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "In the case of aquatic animals, the legible and visible label referred to in point II.2.7.1. contains at least the",
+                "num": 485,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "following information:",
+                "num": 495,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 507,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the number of containers in the consignment;",
+                "num": 507,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(b)",
+                "num": 519,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the name of the species present in each container;",
+                "num": 519,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(c)",
+                "num": 531,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "the number of aquatic animals in each container for each of the species present;",
+                "num": 531,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(d)",
+                "num": 543,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "a statement saying: [“live fish intended for human consumption in the Union”]",
+                "num": 543,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 540,
+                "size": 4.98,
+                "x": 466,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[“live crustaceans",
+                "num": 543,
+                "size": 7.98,
+                "x": 473,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "intended for human consumption in the Union”]",
+                "num": 553,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 550,
+                "size": 4.98,
+                "x": 368,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": ".]",
+                "num": 553,
+                "size": 7.98,
+                "x": 374,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 562,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4)",
+                "num": 562,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          },
+          {
+            "x": 118.7403,
+            "y": 564.7197,
+            "str": "[II.2.7.3.",
+            "dir": "ltr",
+            "width": 27.97469999999994,
+            "height": 7.98,
+            "fontName": "g_d0_f5",
+            "page": 5,
+            "absoluteY": 3933,
+            "endY": 635,
+            "endPage": 5,
+            "absoluteEndY": 4003,
+            "name": "II.2.7.3.",
+            "lines": [
+              {
+                "str": "(4)",
+                "num": 562,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "[II.2.7.3.",
+                "num": 565,
+                "size": 7.98,
+                "x": 119,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "In the case of products of animal origin from aquatic animals other than live aquatic animals, the legible and",
+                "num": 565,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "visible label referred to in point II.2.7.1. contains one of the following statements:",
+                "num": 574,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(a)",
+                "num": 585,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "“products of animal origin from fish, other than live fish, intended for further processing in the",
+                "num": 585,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "Union”;",
+                "num": 595,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(b)",
+                "num": 607,
+                "size": 7.98,
+                "x": 185,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "“products of animal origin from crustaceans, other than live crustaceans, intended for further",
+                "num": 607,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "processing in the Union”.]",
+                "num": 617,
+                "size": 7.98,
+                "x": 213,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (10)",
+                "num": 632,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              },
+              {
+                "str": "(4) (10)",
+                "num": 632,
+                "size": 4.98,
+                "x": 107,
+                "font": "g_d0_f5"
+              }
+            ],
+            "isChild": true
+          }
+        ],
+        "isChild": true
+      },
+      {
+        "x": 127.919814,
+        "y": 634.9197,
+        "str": "II.2.8.",
+        "dir": "ltr",
+        "width": 20.251643999999974,
+        "height": 7.98,
+        "fontName": "g_d0_f2",
+        "page": 5,
+        "absoluteY": 4003,
+        "endY": 681,
+        "endPage": 5,
+        "absoluteEndY": 4049,
+        "name": "II.2.8.",
+        "lines": [
+          {
+            "str": "(4) (10)",
+            "num": 632,
+            "size": 4.98,
+            "x": 107,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "II.2.8.",
+            "num": 635,
+            "size": 7.98,
+            "x": 128,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "Validity of animal health/official certificate",
+            "num": 635,
+            "size": 7.98,
+            "x": 163,
+            "font": "g_d0_f2"
+          },
+          {
+            "str": "This animal health/official certificate is valid for 10 days from the date of issue. In the case of transport by waterway/sea of",
+            "num": 653,
+            "size": 7.98,
+            "x": 128,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "aquatic animals, this period of 10 days may be extended by the duration of the journey by waterway/sea.]",
+            "num": 663,
+            "size": 7.98,
+            "x": 128,
+            "font": "g_d0_f5"
+          },
+          {
+            "str": "aquatic animals, this period of 10 days may be extended by the duration of the journey by waterway/sea.]",
+            "num": 663,
+            "size": 7.98,
+            "x": 128,
+            "font": "g_d0_f5"
+          }
+        ],
+        "isChild": true
+      }
+    ]
+  }
+]
